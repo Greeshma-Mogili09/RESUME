@@ -1,0 +1,13 @@
+{
+    "version": "1.0",
+    "fileMap": {
+      "index.html": "index.html",
+      "style.css": "style.css"
+    },
+    "dependencies": {
+      "html": "index.html",
+      "css": "style.css"
+    },
+    "main": "index.html"
+  }
+  
